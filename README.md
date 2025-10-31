@@ -57,3 +57,4 @@ now featuring **AI-powered enhancements** for predictive automation and scalabil
 ```bash
 export DEPLOY_ENV=production
 ./scripts/deploy.sh
+## FAQ

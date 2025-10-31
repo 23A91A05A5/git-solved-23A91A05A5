@@ -1,0 +1,22 @@
+* 5c54082 (HEAD -> main, origin/main) docs: Add changelog
+* e96323b git journey added
+| * 8807419 (feature/another-feature) Bad commit
+|/  
+| * d4e2056 (origin/feature/another-feature) feat: Add test feature
+| * f9fa16b feat: Add new feature
+|/  
+* f49c9a4 (tag: v1.1.0, tag: v1.0.0) docs: Update README
+* e3b6978 docs: Add FAQ section
+| * 8792e5d (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+|/  
+*   0558491 merge: Resolve all conflicts between main and dev branches
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* |   7347555 merge: Resolve all conflicts between main and dev branches
+|\ \  
+| * | 02011a5 (instructor/dev, dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
